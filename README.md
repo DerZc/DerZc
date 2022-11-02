@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chi Zhang.
+- 👋 Hi, I’m Chi Zhang, a PhD student from Nanjing University.
 - 👀 I’m interested in Software Engineering, Programming Languages, Machine Learning. 
 - 🌱 I’m currently learning Binary Testing.
 - 💞️ I’m looking to collaborate on Binary Fuzzing and Static Analysis.
